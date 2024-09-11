@@ -1,0 +1,135 @@
+*{
+    background-color: #DEE5D4; 
+}
+
+
+.d1{
+    background-color: #FEF9D9;
+    height: 60px;
+    width: 1422px;
+    margin: 0px 0px 0px 0px;
+    border-style: ridge;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 2px;
+}
+
+.a1{
+    margin-left: 10px;
+    font-size:large;
+    background-color: #FEF9D9;
+    text-decoration: underline;
+}
+
+.a2{
+    margin-left: 490px;
+    background-color: #FEF9D9;
+    font-size: 250%;
+}
+
+.b1{
+    margin-left: 510px;
+    font-size: 15px;
+    background-color: rgb(228, 206, 178);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 7px;
+}
+
+.b2{
+    font-size: larger;
+    background-color: rgb(151, 216, 218);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    background-color: #d6d2ba;
+    height: 350px;
+    width: 1425px;
+    display: inline-block;
+}
+
+.d2{
+    background-color: #d6d2ba;
+    display: inline-block;
+    margin: 80px 50px 80px 50px;
+}
+
+p{
+    background-color: #d6d2ba;
+    font-size: 20px;
+}
+
+.n1{
+    font-size: 28px;
+    background-color: #d6d2ba;
+    text-decoration: underline;
+}
+
+.s1{
+    display: inline-block;
+    margin: 80px 10px 80px 470px;
+    padding: 5px 100px 30px 100px;
+    background-color: #d6d2ba;
+    border-style: ridge;
+    border-color: rgb(90, 45, 13);
+    border-width: 3px;
+    border-radius: 7px;
+}
+
+.s11{
+    padding: 10px 70px;
+    font-size: 50px;
+    background-color:rgb(228, 206, 178);
+    text-align: center;
+    border-style: ridge;
+    border-width: 3px;
+    border-color: rgb(79, 63, 9);
+    border-radius: 7px;
+}
+
+
+
+.number{
+    background-color: rgb(241, 240, 240);
+    border-style: ridge;
+    border-color: black;
+    opacity: 60%;
+    padding: 10px 10px 10px 10px;
+    font-size: 15px;
+}
+
+.button{
+    font-size: 25px;
+}
+
+.cpass{
+    background-color: rgb(241, 240, 240);
+    border-style: ridge;
+    border-color: black;
+    opacity: 60%;
+    padding: 10px 10px 10px 10px;
+    font-size: 15px;
+}
+
+.fpass{
+    font-size: 13px;
+    text-decoration: underline;
+}
+
+.tik{
+    margin: 10px 0px 0px 78px;
+    font-size: 25px;
+    padding: 5px 25px 5px 25px;
+    background-color: cadetblue;
+    border-radius: 7px;
+}
+
+.log{
+    margin-left: 40px;
+    background-color: #d6d2ba;
+}
+
+.login{
+    background-color: #d6d2ba;
+    text-decoration: underline;
+}
